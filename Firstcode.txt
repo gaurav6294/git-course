@@ -1,3 +1,5 @@
 Hello world!! skippking staging.
 take input fro user
 and add the values.
+
+submit data to the databases
